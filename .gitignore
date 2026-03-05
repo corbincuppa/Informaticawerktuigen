@@ -1,6 +1,6 @@
-/.cache
-/tmp
-/local
+.cache/
+tmp/
+local/
 
 .zip
 .tgz
